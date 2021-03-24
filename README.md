@@ -1,1 +1,1 @@
-# SpringMVC
+# Tomcat server is required to launch this project
